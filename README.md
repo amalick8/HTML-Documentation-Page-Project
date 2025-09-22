@@ -3,6 +3,10 @@
 A simple **technical documentation page** built with **HTML and CSS**.  
 This project demonstrates semantic HTML, fixed navigation, responsive layout, and clean styling.  
 
+## 🌐 Live Demo
+
+[View the project here](https://amalick8.github.io/HTML-Documentation-Page-Project/)
+
 ---
 
 ## 📂 Project Structure
